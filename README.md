@@ -1,1 +1,1 @@
-# sveltekit-supabase-starter-kit-22
+# sveltekit-supabase-starter-kit-22.07
